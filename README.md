@@ -32,13 +32,12 @@ Here are some ideas to get you started:
 
  #### And well, what about you!!
 
-<hr width=100%/>
+<hr width=50%/>
 <br>
 <br>
 <br>
 <br>
-<br>
-<br>
+
 <img align='right' src="https://media.giphy.com/media/2UvBsxeB6nlONSJYoh/giphy.gif" width="230">
 
 
