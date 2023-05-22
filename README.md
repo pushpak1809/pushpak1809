@@ -71,8 +71,8 @@ Here are some ideas to get you started:
   
   ![ViewCount](https://views.whatilearened.today/views/github/pushpak1809/views.svg)   
   
-  <div> 
-   <img alt="Pushpak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pushpak1809&theme=gotham&hide_border=true&area=true" width="100%"  />
+<!--   <div> 
+   <img alt="Pushpak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pushpak1809&theme=gotham&hide_border=true&area=true" width="100%"  /> -->
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpak1809&theme=algolia&hide_border=true" width="49%"> 
  
@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<img align='left' src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="210">
+<img align='left' src="<iframe src="https://giphy.com/embed/W8IwSFbHR7p0upZS8B" width="452" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/demon-slayer-kimetsu-no-yaiba-rengoku-W8IwSFbHR7p0upZS8B">via GIPHY</a></p>" width="210">
  
   ### Connect Me..(●'◡'●)
   
