@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 <br>
 
  
-  ## Stats!! <img src="https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif" width="30">
+  ## Stats!! <img src="https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif" width="70">
 
    <img src="https://komarev.com/ghpvc/?username=pushpak1809&label=PROFILE VIEWS  &color=red&style=flat" alt="jiganesh"/>  
      <img align='left' src="https://media.giphy.com/media/Hb1m3Eo7Brsdk2ywQF/giphy.gif" width="400"> 
@@ -111,7 +111,7 @@ Here are some ideas to get you started:
  
 
  
-  ## Connect Me..<img src="https://media.giphy.com/media/BF6KEVIfjLbZpCEzK8/giphy.gif" width="30">
+  ## Connect Me..<img src="https://media.giphy.com/media/BF6KEVIfjLbZpCEzK8/giphy.gif" width="70">
   
 
 <a href="hiwasepushpak@gmail.com">
