@@ -38,7 +38,9 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThhZjUzNWI4NDVlNDUzMjhhNzAzOTIyNmM5MjdmNzI3YWEyOWRiYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/6swT6a02NFxpY2JKY4/giphy.giff" width="230"> 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThhZjUzNWI4NDVlNDUzMjhhNzAzOTIyNmM5MjdmNzI3YWEyOWRiYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/6swT6a02NFxpY2JKY4/giphy.gif" width="230">
+
+
 
 
 <!--### Hobbies <img src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif" width="60"> 
@@ -61,7 +63,7 @@ Here are some ideas to get you started:
 >>Bigdata | Hadoop<br>
 >>Cyber Security Enthusiast
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThhZjUzNWI4NDVlNDUzMjhhNzAzOTIyNmM5MjdmNzI3YWEyOWRiYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/6swT6a02NFxpY2JKY4/giphy.gif" width="60">
+
 <br>
 <br>
 <br>
