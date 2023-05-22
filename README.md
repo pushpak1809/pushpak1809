@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 
 ### ME<img src="https://media.giphy.com/media/ZcthNRpghDfqieTcsm/giphy.gif" width="30">
 
-
+<br>
 
  Myself Pushpak ✌🏻<br>
->>> And currently I'm pursuing degree in B.tech from Medi-Caps University, Indore.<br>
+ And currently I'm pursuing degree in B.tech from Medi-Caps University, Indore.<br>
 
->>> And well, what about you!!
+ And well, what about you!!
 
 <hr width=50%/>
 <br>
