@@ -85,7 +85,7 @@ Here are some ideas to get you started:
   ## Stats!! 
 
    <img src="https://komarev.com/ghpvc/?username=pushpak1809&label=PROFILE VIEWS  &color=red&style=flat" alt="jiganesh"/>  
-     <img align='right' src="https://media.giphy.com/media/Hb1m3Eo7Brsdk2ywQF/giphy.gif" width="400"> 
+     <img align='right' src="https://media.giphy.com/media/Hb1m3Eo7Brsdk2ywQF/giphy.gif" width="200"> 
 
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpak1809&theme=algolia&hide_border=true" width="49%"> 
