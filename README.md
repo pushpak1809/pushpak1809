@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <br>
 <img align='right' src="https://media.giphy.com/media/MdSd5OVojIyK8EjaqQ/giphy.gif" width="230">
 
-## LANGUAGES AND TOOLS
+## LANGUAGES AND TOOLS <img src="https://media.giphy.com/media/bCBZaPWhl515tcyVjo/giphy.gif" width="30">
 <br>
 
 <p>
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 <br>
 
  
-  ## Stats!! 
+  ## Stats!! <img src="https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif" width="30">
 
    <img src="https://komarev.com/ghpvc/?username=pushpak1809&label=PROFILE VIEWS  &color=red&style=flat" alt="jiganesh"/>  
      <img align='left' src="https://media.giphy.com/media/Hb1m3Eo7Brsdk2ywQF/giphy.gif" width="400"> 
@@ -111,10 +111,10 @@ Here are some ideas to get you started:
  
 
  
-  ## Connect Me..(●'◡'●)
+  ## Connect Me..<img src="https://media.giphy.com/media/BF6KEVIfjLbZpCEzK8/giphy.gif" width="30">
   
 
-<a href="shyamtawli2@gmail.com">
+<a href="hiwasepushpak@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://twitter.com/shyam_tawli">
