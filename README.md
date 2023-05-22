@@ -67,11 +67,11 @@
 ## **GitHub Stats** 
 <p align="center">
 <a href="https://github.com/pushpak1809" title="Redirect's to Pushpak's Github">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shyamtawli&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pushpak1809&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
   
 
 <a href="https://github.com/pushpak1809">
-<img width="49%" title="Redirect's to Pushpak's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamtawli&theme=dark&theme=black-ice&stroke=0000" /></a>
+<img width="49%" title="Redirect's to Pushpak's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpak1809&theme=dark&theme=black-ice&stroke=0000" /></a>
 
 
 
