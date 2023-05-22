@@ -90,23 +90,22 @@ Here are some ideas to get you started:
   
 
 
-<a href="https://www.linkedin.com/in/radha-799a411a6/"><img height="35" src="https://github.com/RK1905101/RK1905101/blob/master/linkedin.png"></a>
-     <br>
-     
-<a href="mailto:1905101@kiit.ac.in"><img height="25" src="https://github.com/RK1905101/RK1905101/blob/master/mail.png"></a>
-     <br>
-     
-<!--<a href="https://www.instagram.com/rk.02116/"><img height="35" src="https://github.com/RK1905101/RK1905101/blob/master/in.png"></a>
-     <br>
-     
-<a href="https://www.facebook.com/profile.php?id=100039798362107"><img height="40" src="https://github.com/RK1905101/RK1905101/blob/master/fb.png"></a>
-     <br>-->
-     
-<a href="https://twitter.com/RK02116"><img height="30" src="https://github.com/RK1905101/RK1905101/blob/master/twitter.png"></a>
-     <br>
-     
-<a href="https://t.me/blue_nova"><img height="40" src="https://github.com/RK1905101/RK1905101/blob/master/tg.png"></a>
-     <br>
+<a href="https://leetcode.com/shyamtawli/">
+  <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.linkedin.com/in/shyamtawli">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+ </a> 
+<a href="shyamtawli2@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://twitter.com/shyam_tawli">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/shyamtawli/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 
 
