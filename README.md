@@ -44,14 +44,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-### Hobbies <img src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif" width="60"> 
-> Photography (sometimes..😀)<br>
-  > Drawing n Sketching (Rarely now..🙃)<br>
- > Travelling (Waiting for corona go, go corona 😂)<br>
-  > Songs+Memes+Animes (Can share them any time..😄)<br>
-   > And yess!! Tech Enthusiast too..🙄🙂
-     
-<img align='left' src="https://media.giphy.com/media/JA6bbQKsEtWVB6ThBU/giphy.gif" width="290"> 
 
 
 
