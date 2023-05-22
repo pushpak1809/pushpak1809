@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 
 
 ## SKILLS <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60">
-#### Devops tools (Docker | Kubernetes | Jenkins | Ansible | Prometheus | Grafana)<br>
-#### Machine learning | Cloud <br>
-#### Bigdata | Hadoop<br>
-#### Cyber Security Enthusiast
+- Devops tools (Docker | Kubernetes | Jenkins | Ansible | Prometheus | Grafana)<br>
+- Machine learning | Cloud <br>
+- Bigdata | Hadoop<br>
+- Cyber Security Enthusiast
 
 
 <br>
