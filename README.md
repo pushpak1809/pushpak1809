@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 
->>> Myself Pushpak ✌🏻<br>
+ Myself Pushpak ✌🏻<br>
 >>> And currently I'm pursuing degree in B.tech from Medi-Caps University, Indore.<br>
 
 >>> And well, what about you!!
