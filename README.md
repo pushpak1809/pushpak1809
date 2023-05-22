@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="55px">
 </h1>
 
-<img align='left' src="https://media.giphy.com/media/W8IwSFbHR7p0upZS8B/giphy.gif" width="300"> 
+<img align='right' src="https://media.giphy.com/media/W8IwSFbHR7p0upZS8B/giphy.gif" width="300"> 
 
 ## ME<img src="https://media.giphy.com/media/ZcthNRpghDfqieTcsm/giphy.gif" width="30">
 
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
  
 
  
- <img align='left' src="https://media.giphy.com/media/vVJHC15nwVzuEaPdzg/giphy.gif" width="270"> 
+ <img align='right' src="https://media.giphy.com/media/vVJHC15nwVzuEaPdzg/giphy.gif" width="270"> 
  
  
  
