@@ -56,7 +56,7 @@ Here are some ideas to get you started:
  
   ## Stats!! 
 
-  ![ViewCount](https://views.whatilearened.today/views/github/pushpak1809/views.svg)   
+   <img src="https://komarev.com/ghpvc/?username=pushpak1809&label=PROFILE VIEWS  &color=red&style=flat" alt="jiganesh"/>  
      <img align='right' src="https://media.giphy.com/media/YWLDUhxMbpPfY831Fn/giphy.gif" width="270"> 
 
 
