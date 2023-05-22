@@ -111,7 +111,8 @@ Here are some ideas to get you started:
  
 
  
-  ## Connect Me..<img src="https://media.giphy.com/media/BF6KEVIfjLbZpCEzK8/giphy.gif" width="70">
+  ## Connect Me..  
+  <br><img src="https://media.giphy.com/media/BF6KEVIfjLbZpCEzK8/giphy.gif" width="40">
   
 
 <a href="hiwasepushpak@gmail.com">
