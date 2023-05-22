@@ -85,7 +85,7 @@ Here are some ideas to get you started:
   ## Stats!! 
 
    <img src="https://komarev.com/ghpvc/?username=pushpak1809&label=PROFILE VIEWS  &color=red&style=flat" alt="jiganesh"/>  
-     <img align='right' src="https://media.giphy.com/media/Hb1m3Eo7Brsdk2ywQF/giphy.gif" width="200"> 
+     <img align='right' src="https://media.giphy.com/media/Hb1m3Eo7Brsdk2ywQF/giphy.gif" width="400"> 
 
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpak1809&theme=algolia&hide_border=true" width="49%"> 
@@ -93,7 +93,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=pushpak1809&show_icons=true&theme=algolia&hide_border=true" width="49%" />
   
 
-  <img align='right' src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif" width="270"> 
+  <img align='right' src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif" width="200"> 
  
  
   <img align = "center" alt="RK1905101's most used languages on GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpak1809&langs_count=8&layout=compact&bg_color=000000&title_color=E8E500&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html" width="40%" />
