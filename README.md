@@ -43,19 +43,7 @@ Here are some ideas to get you started:
 
 
 
-<!--### Hobbies <img src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif" width="60"> 
-<!-- > Photography (sometimes..😀)<br>
-  <!--  > Drawing n Sketching (Rarely now..🙃)<br>
- <!--    > Travelling (Waiting for corona go, go corona 😂)<br>
-  <!--   > Songs+Memes+Animes (Can share them any time..😄)<br>
- <!--    > And yess!! Tech Enthusiast too..🙄🙂
-     
-     
 
-<!--<br>
-<br>
-<br>
-<img align='left' src="https://media.giphy.com/media/JA6bbQKsEtWVB6ThBU/giphy.gif" width="290">  -->
 
 ### SKILLS <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60">
 >>Devops tools (Docker | Kubernetes | Jenkins | Ansible | Prometheus | Grafana)<br>
@@ -97,6 +85,22 @@ Here are some ideas to get you started:
 <br>
  <img align='left' src="https://media.giphy.com/media/W8IwSFbHR7p0upZS8B/giphy.gif" width="270"> 
  <img align='left' src="https://media.giphy.com/media/vVJHC15nwVzuEaPdzg/giphy.gif" width="270"> 
+ 
+ 
+ 
+ ### Hobbies <img src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif" width="60"> 
+ > Photography (sometimes..😀)<br>
+    > Drawing n Sketching (Rarely now..🙃)<br>
+    > Travelling (Waiting for corona go, go corona 😂)<br>
+   > Songs+Memes+Animes (Can share them any time..😄)<br>
+   > And yess!! Tech Enthusiast too..🙄🙂
+     
+     
+
+<br>
+<br>
+<br>
+<img align='left' src="https://media.giphy.com/media/JA6bbQKsEtWVB6ThBU/giphy.gif" width="290">  
  
   ### Connect Me..(●'◡'●)
   
