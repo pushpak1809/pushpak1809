@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ## LANGUAGES AND TOOLS
 
-
+<h1>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50px" height="50px">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50px" height="50px">
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50px" height="50px">
 
-
+</h1>
 <br>
 <br>
 <br>
