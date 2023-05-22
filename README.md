@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 
 
->>> Myself Radha ✌🏻<br>
->>> And currently I'm pursuing degree in B.tech from KIIT University, Bhubaneswar.<br>
+>>> Myself Pushpak ✌🏻<br>
+>>> And currently I'm pursuing degree in B.tech from Medi-Caps University, Indore.<br>
 
->>> And well, what about you!! (‾◡◝)
+>>> And well, what about you!!
 
 <hr width=50%/>
 <br>
@@ -67,22 +67,22 @@ Here are some ideas to get you started:
 <br>
 
  
-  ## Stats!! ( ﾉ ﾟｰﾟ)ﾉ
+  ## Stats!! 
   
-  ![ViewCount](https://views.whatilearened.today/views/github/RK1905101/views.svg)   
+  ![ViewCount](https://views.whatilearened.today/views/github/pushpak1809/views.svg)   
   
   <div> 
-   <img alt="RK1905101's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RK1905101&theme=gotham&hide_border=true&area=true" width="100%"  />
+   <img alt="Pushpak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pushpak1809&theme=gotham&hide_border=true&area=true" width="100%"  />
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=RK1905101&theme=algolia&hide_border=true" width="49%"> 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpak1809&theme=algolia&hide_border=true" width="49%"> 
  
-  <img src="https://github-readme-stats.vercel.app/api?username=RK1905101&show_icons=true&theme=algolia&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pushpak1809&show_icons=true&theme=algolia&hide_border=true" width="49%" />
   
 
   <img align='right' src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif" width="270"> 
  
  
-  <img align = "center" alt="RK1905101's most used languages on GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RK1905101&langs_count=8&layout=compact&bg_color=000000&title_color=E8E500&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html" width="40%" />
+  <img align = "center" alt="RK1905101's most used languages on GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpak1809&langs_count=8&layout=compact&bg_color=000000&title_color=E8E500&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html" width="40%" />
  
   
   </div>
