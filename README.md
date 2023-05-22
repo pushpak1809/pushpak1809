@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ## LANGUAGES AND TOOLS
 <br>
-<br>
+
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50px" height="50px"  margin-left="300px">
 
