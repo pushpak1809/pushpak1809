@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
  
   ## Stats!! 
-   <img align='right' src="https://media.giphy.com/media/YWLDUhxMbpPfY831Fn/giphy.gif" width="270"> 
+
   ![ViewCount](https://views.whatilearened.today/views/github/pushpak1809/views.svg)   
   
 <!--   <div> 
