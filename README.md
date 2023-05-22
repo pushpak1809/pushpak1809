@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
- <img align='left' src="https://giphy.com/stickers/demon-slayer-kimetsu-no-yaiba-rengoku-W8IwSFbHR7p0upZS8B" width="270"> 
+ <img align='left' src="https://media.giphy.com/media/W8IwSFbHR7p0upZS8B/giphy.gif" width="270"> 
  
   ### Connect Me..(●'◡'●)
   
