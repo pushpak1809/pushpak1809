@@ -89,13 +89,6 @@ Here are some ideas to get you started:
   ## Connect Me..(●'◡'●)
   
 
-
-<a href="https://leetcode.com/shyamtawli/">
-  <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a><br>
-<a href="https://www.linkedin.com/in/shyamtawli">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
- </a> <br>
 <a href="shyamtawli2@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a><br>
@@ -105,7 +98,14 @@ Here are some ideas to get you started:
 
 <a href="https://www.instagram.com/shyamtawli/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+</a><br>
+<a href="https://leetcode.com/shyamtawli/">
+  <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a><br>
+<a href="https://www.linkedin.com/in/shyamtawli">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+ </a> 
+
 
 
 
