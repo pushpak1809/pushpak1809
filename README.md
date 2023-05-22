@@ -51,11 +51,6 @@ Here are some ideas to get you started:
   > Songs+Memes+Animes (Can share them any time..😄)<br>
    > And yess!! Tech Enthusiast too..🙄🙂
      
-     
-
-<br>
-<br>
-<br>
 <img align='left' src="https://media.giphy.com/media/JA6bbQKsEtWVB6ThBU/giphy.gif" width="290"> 
 
 
