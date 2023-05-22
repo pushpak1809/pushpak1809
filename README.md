@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<img align='left' src="https://media.giphy.com/media/2UvBsxeB6nlONSJYoh/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/2UvBsxeB6nlONSJYoh/giphy.gif" width="230">
 
 
 
