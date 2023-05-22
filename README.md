@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjMwMDU4NWU5Mjk0OTYyOTQ1YTZjNTcxMTdiMzFmZjFiMTBkZTBhYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QUKqSLmE7vmZP2PkZk/giphy.gif" width="400">
+<img align='right' src="https://media.giphy.com/media/2UvBsxeB6nlONSJYoh/giphy.gif" width="230">
 
 
 <br>
