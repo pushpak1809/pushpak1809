@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-
+<img align='left' src="https://media.giphy.com/media/JA6bbQKsEtWVB6ThBU/giphy.gif" width="290">  
  ### Hobbies <img src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif" width="60"> 
  > Photography (sometimes..😀)<br>
     > Drawing n Sketching (Rarely now..🙃)<br>
@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<img align='left' src="https://media.giphy.com/media/JA6bbQKsEtWVB6ThBU/giphy.gif" width="290">  
+
 
 
 
