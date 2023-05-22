@@ -57,7 +57,8 @@ Here are some ideas to get you started:
 <img align='right' src="https://media.giphy.com/media/MdSd5OVojIyK8EjaqQ/giphy.gif" width="230">
 
 ## LANGUAGES AND TOOLS
-
+<br>
+<br>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50px" height="50px"  margin-left="300px">
 
