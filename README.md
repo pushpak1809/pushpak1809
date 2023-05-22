@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <img align='right' src="https://giphy.com/clips/zenitsu-oZlAfrWKEJOZLYnVDC" width="230">
-<img align='right' src="https://media.giphy.com/media/TSzfjRl8jbPOsApRYw/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/dyjrpqaUVqCELGuQVr/giphy.gif" width="230">
 
 
 <br>
