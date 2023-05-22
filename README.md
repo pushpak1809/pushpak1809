@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 
 ## ME<img src="https://media.giphy.com/media/ZcthNRpghDfqieTcsm/giphy.gif" width="30">
 
-  I'm Pushpak ✌🏻<br>
-  And currently I'm pursuing degree in B.tech from Medi-Caps University, Indore.<br>
+ - 👷‍♂️I'm Pushpak ✌🏻<br>
+- ![PeachCatStudyPeachGIF](https://github.com/pushpak1809/pushpak1809/assets/78649810/9aee905d-e068-453e-9e53-ac646885f491)
+And currently I'm pursuing degree in B.tech from Medi-Caps University, Indore.<br>
 
  - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
