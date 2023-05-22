@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 >>> And well, what about you!!
 
-<hr width=50%/>
+<hr width=100%/>
 <br>
 <br>
 <br>
