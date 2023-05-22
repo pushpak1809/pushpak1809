@@ -40,7 +40,19 @@ Here are some ideas to get you started:
 <br>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThhZjUzNWI4NDVlNDUzMjhhNzAzOTIyNmM5MjdmNzI3YWEyOWRiYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/6swT6a02NFxpY2JKY4/giphy.gif" width="230">
 
+### Hobbies <img src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif" width="60"> 
+> Photography (sometimes..😀)<br>
+  > Drawing n Sketching (Rarely now..🙃)<br>
+ > Travelling (Waiting for corona go, go corona 😂)<br>
+  > Songs+Memes+Animes (Can share them any time..😄)<br>
+   > And yess!! Tech Enthusiast too..🙄🙂
+     
+     
 
+<br>
+<br>
+<br>
+<img align='left' src="https://media.giphy.com/media/JA6bbQKsEtWVB6ThBU/giphy.gif" width="290"> 
 
 
 
