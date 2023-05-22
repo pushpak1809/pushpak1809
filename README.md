@@ -1,31 +1,31 @@
-# Hi 👋, I'm <a href="https://github.com/shyamtawli" target="blank">Shyam</a>
+# Hi 👋, I'm <a href="https://github.com/pushpak1809" target="blank">PUSHPAK</a>
 <h3>A Passionate Developer from India &#127470;&#127475</h3>
- <img src="https://komarev.com/ghpvc/?username=shyamtawli&label=PROFILE VIEWS  &color=red&style=flat" alt="jiganesh"/>
+ <img src="https://komarev.com/ghpvc/?username=pushpak1809&label=PROFILE VIEWS  &color=red&style=flat" alt="jiganesh"/>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a> 
 
-- 🌱 I’m currently Working on Web Development (ReactJS) and Java as Core Language.
+- 🌱 I’m currently Working on Web Development (ReactJS) and Python as Core Language.
 
 - 🤝 I’m available for Jobs.
 
 - 🌱 I’m currently learning Advance ReactJS and Data Struture and Algorithm.
 
-- 💬 Ask me about **ReactJS & Java**
+- 💬 Ask me about **ReactJS & Python**
 
 
 
 
-<a href="https://leetcode.com/shyamtawli/">
+<a href="https://leetcode.com/Pushpak18/">
   <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-<a href="https://www.linkedin.com/in/shyamtawli">
+<a href="https://www.linkedin.com/in/pushpak-hiwase-365213208/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
  </a> 
-<a href="shyamtawli2@gmail.com">
+<a href="hiwasepushpak@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://twitter.com/shyam_tawli">
+<a href="https://twitter.com/HiwasePushpak">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
