@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 <hr width=50%/>
 <br>
 <br>
-<br>
-<br>
 
 <img align='right' src="https://media.giphy.com/media/2UvBsxeB6nlONSJYoh/giphy.gif" width="230">
 
