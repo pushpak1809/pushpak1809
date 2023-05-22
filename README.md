@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ## ME<img src="https://media.giphy.com/media/ZcthNRpghDfqieTcsm/giphy.gif" width="30">
 
  ##### I'm Pushpak ✌🏻<br>
- And currently I'm pursuing degree in B.tech from Medi-Caps University, Indore.<br>
+ #### And currently I'm pursuing degree in B.tech from Medi-Caps University, Indore.<br>
 
- And well, what about you!!
+ #### And well, what about you!!
 
 <hr width=50%/>
 <br>
@@ -49,11 +49,11 @@ Here are some ideas to get you started:
 
 
 
-### SKILLS <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60">
-Devops tools (Docker | Kubernetes | Jenkins | Ansible | Prometheus | Grafana)<br>
-Machine learning | Cloud <br>
-Bigdata | Hadoop<br>
-Cyber Security Enthusiast
+## SKILLS <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60">
+#### Devops tools (Docker | Kubernetes | Jenkins | Ansible | Prometheus | Grafana)<br>
+#### Machine learning | Cloud <br>
+#### Bigdata | Hadoop<br>
+#### Cyber Security Enthusiast
 
 
 <br>
@@ -94,7 +94,7 @@ Cyber Security Enthusiast
  
 
  
-  ### Connect Me..(●'◡'●)
+  ## Connect Me..(●'◡'●)
   
 
 
