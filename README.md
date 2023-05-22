@@ -31,14 +31,13 @@ Here are some ideas to get you started:
  #### And currently I'm pursuing degree in B.tech from Medi-Caps University, Indore.<br>
 
  #### And well, what about you!!
-<img align='right' src="https://media.giphy.com/media/2UvBsxeB6nlONSJYoh/giphy.gif" width="230">
+
 <hr width=50%/>
 <br>
 <br>
 <br>
 
-<br>
-<br>
+<img align='right' src="https://media.giphy.com/media/2UvBsxeB6nlONSJYoh/giphy.gif" width="230">
 
 
 
