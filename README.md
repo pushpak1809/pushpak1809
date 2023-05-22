@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ## LANGUAGES AND TOOLS
 
 <h1>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50px" height="50px"  margin-righ="300px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50px" height="50px"  margin-right="300px">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50px" height="50px">
 	
