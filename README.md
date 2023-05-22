@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-
+<img align='right' src="https://media.giphy.com/media/MdSd5OVojIyK8EjaqQ/giphy.gif" width="230">
 
 ## LANGUAGES AND TOOLS
 
