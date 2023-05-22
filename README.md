@@ -57,9 +57,8 @@ Here are some ideas to get you started:
   ## Stats!! 
 
   ![ViewCount](https://views.whatilearened.today/views/github/pushpak1809/views.svg)   
-     <img align='left' src="https://media.giphy.com/media/YWLDUhxMbpPfY831Fn/giphy.gif" width="270"> 
-<!--   <div> 
-   <img alt="Pushpak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pushpak1809&theme=gotham&hide_border=true&area=true" width="100%"  /> -->
+     <img align='right' src="https://media.giphy.com/media/YWLDUhxMbpPfY831Fn/giphy.gif" width="270"> 
+
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpak1809&theme=algolia&hide_border=true" width="49%"> 
  
