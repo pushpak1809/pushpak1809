@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <img align='left' src="https://media.giphy.com/media/W8IwSFbHR7p0upZS8B/giphy.gif" width="300"> 
 
-### ME<img src="https://media.giphy.com/media/ZcthNRpghDfqieTcsm/giphy.gif" width="30">
+# ME<img src="https://media.giphy.com/media/ZcthNRpghDfqieTcsm/giphy.gif" width="30">
 
  ### I'm Pushpak ✌🏻<br>
  And currently I'm pursuing degree in B.tech from Medi-Caps University, Indore.<br>
