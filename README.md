@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 <a href="https://leetcode.com/shyamtawli/">
   <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+</a><br>
 <a href="https://www.linkedin.com/in/shyamtawli">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
  </a> 
